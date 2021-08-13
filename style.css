@@ -145,8 +145,9 @@ svg:hover text{
   font-size: 400px;
 }
 
-.random {
+.random 
 	position: relative;
+white-space: pre-wrap;
 top: 50%;
 transform: translateY(-50%); 
 }
