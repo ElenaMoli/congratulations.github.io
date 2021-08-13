@@ -148,7 +148,14 @@ svg:hover text{
 /*.random {
 }*/
 
-h4 { text-align: center; }
+
+h1 {
+  margin: 0;
+  transform: translate(-50%, -50%);
+  position: absolute; 
+  top: 50%; 
+  left: 50%;
+}
 /*.random {
 	  transform: translate(-50%, -50%);
     max-width:100%;
