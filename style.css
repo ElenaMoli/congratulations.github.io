@@ -150,7 +150,7 @@ svg:hover text{
 
 
 .random {
-	text-align: center;
+	/*text-align: center;*/
 	/*margin-top: 50%;
 	display: inline-block;*/
 	/*justify-content: center;
@@ -158,6 +158,7 @@ svg:hover text{
 	/*height:auto;
 		width:auto;
 	 box-sizing: border-box;*/
+	margin-top: 50%;
 white-space: pre-wrap;	
 }
 
