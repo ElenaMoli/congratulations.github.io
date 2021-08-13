@@ -160,17 +160,7 @@ svg:hover text{
 white-space: pre-wrap;	
 }
 
-.ltr {
-	 letter-spacing: 26px;
-	font-size: 25px; 
-}
 
-.content_2 {
-		margin-top:0%;
-	margin-bottom: 25px;
- letter-spacing: 6px;
- font-size: 6px; 
-}
 
 html {
 	display: inline-block;
